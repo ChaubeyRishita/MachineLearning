@@ -8,6 +8,8 @@ SMS Spam Detected using `Random Forest Classifier`
 - `spam_sms.csv` - Dataset
 
 ## Dataset
+<img width="374" height="294" alt="image" src="https://github.com/user-attachments/assets/a1d07593-034d-40d4-ae9d-a7cb7605c7da" />
+
 
 ## Libraries Used
 
