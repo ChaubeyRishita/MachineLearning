@@ -12,6 +12,8 @@ Advanced House Price Prediction notebook follows the folllowing steps:
 - `HousePrice.csv` - Dataset
 
 ## Dataset
+<img width="542" height="713" alt="image" src="https://github.com/user-attachments/assets/82324e7a-9695-4d84-8fb1-f527e3bb9660" />
+
 
 ## Libraries Used
 
