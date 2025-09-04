@@ -12,6 +12,8 @@ Advanced Car Price Prediction notebook follows the folllowing steps:
 - `cardekho.csv` - Dataset
 
 ## Dataset
+<img width="562" height="543" alt="image" src="https://github.com/user-attachments/assets/78ac110e-42ad-40f2-9b3c-14c5efb844f7" />
+
 
 ## Libraries Used
 
