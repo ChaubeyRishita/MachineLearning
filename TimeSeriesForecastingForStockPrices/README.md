@@ -12,6 +12,8 @@ Time Series Forecasting for Stock Prediction notebook follows the folllowing ste
 - `stocks.csv` - Dataset
 
 ## Dataset
+<img width="479" height="464" alt="image" src="https://github.com/user-attachments/assets/c7b23ede-cd1b-4363-8162-727f78c12ab9" />
+
 
 ## Libraries Used
 
