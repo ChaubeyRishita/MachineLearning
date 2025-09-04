@@ -11,6 +11,8 @@ Fraud Detection notebook follows the folllowing steps:
 - `onlinefraud.csv` - Dataset
 
 ## Dataset
+<img width="571" height="556" alt="image" src="https://github.com/user-attachments/assets/1db5ceff-4cce-478a-9c5d-313dffd1428f" />
+
 
 ## Libraries Used
 
