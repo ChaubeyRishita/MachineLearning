@@ -8,6 +8,8 @@ Anomaly Detection in IoT Sensor Data using `Isolation Forest`
 - `IoT_Sensor.csv` - Dataset
 
 ## Dataset
+<img width="574" height="611" alt="image" src="https://github.com/user-attachments/assets/50e451dc-2a71-4236-9af1-325b7f3c4c72" />
+
 
 ## Libraries Used
 ```python
